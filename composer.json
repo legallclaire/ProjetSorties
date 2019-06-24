@@ -35,7 +35,7 @@
         "symfony/web-server-bundle": "*"
     },
     "config": {
-	"secure-http":false
+	"secure-http":false,
         "preferred-install": {
             "*": "dist"
         },
